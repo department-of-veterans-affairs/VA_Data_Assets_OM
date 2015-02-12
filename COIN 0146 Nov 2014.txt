@@ -1,0 +1,109 @@
+ (USVA/CARS)  DATE 11/28/2014     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  TOP  TOTALS  REPORT                                       COIN/CARS 146
+                                         EDUCATION         OCTOBER   1, 2014 -  NOVEMBER 30, 2014
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF TOP ACCTS REFERRED                 43,348        31,302             0             0             0             0
+0$ VALUE OF TOP ACCTS REFERRED         24,974,443    19,726,922             0             0             0             0
+0NO. OF TOP OFFSET ACCTS                    2,610         1,204             0             0             0             0
+0$ VALUE OF TOP OFFSET ACCTS            1,643,988       348,377             0             0             0             0
+0NO. OF TOP CLAIM ACCTS                        50            29             0             0             0             0
+0$ VALUE OF TOP CLAIM ACCTS                41,839        36,026             0             0             0             0
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF TOP ACCTS REFERRED                      0             0             0             0             0             0        74,650
+0$ VALUE OF TOP ACCTS REFERRED                  0             0             0             0             0             0    44,701,365
+0NO. OF TOP OFFSET ACCTS                        0             0             0             0             0             0         3,814
+0$ VALUE OF TOP OFFSET ACCTS                    0             0             0             0             0             0     1,992,365
+0NO. OF TOP CLAIM ACCTS                         0             0             0             0             0             0            79
+0$ VALUE OF TOP CLAIM ACCTS                     0             0             0             0             0             0        77,865
+1 
+ (USVA/CARS)  DATE 11/28/2014     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  TOP  TOTALS  REPORT                                       COIN/CARS 146
+                                  COMPENSATION AND PENSION OCTOBER   1, 2014 -  NOVEMBER 30, 2014
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF TOP ACCTS REFERRED                  6,391         6,041             0             0             0             0
+0$ VALUE OF TOP ACCTS REFERRED         19,845,158    18,874,103             0             0             0             0
+0NO. OF TOP OFFSET ACCTS                    9,725         8,521             0             0             0             0
+0$ VALUE OF TOP OFFSET ACCTS            1,575,327     1,316,019             0             0             0             0
+0NO. OF TOP CLAIM ACCTS                        63            36             0             0             0             0
+0$ VALUE OF TOP CLAIM ACCTS                44,616        31,943             0             0             0             0
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF TOP ACCTS REFERRED                      0             0             0             0             0             0        12,432
+0$ VALUE OF TOP ACCTS REFERRED                  0             0             0             0             0             0    38,719,261
+0NO. OF TOP OFFSET ACCTS                        0             0             0             0             0             0        18,246
+0$ VALUE OF TOP OFFSET ACCTS                    0             0             0             0             0             0     2,891,346
+0NO. OF TOP CLAIM ACCTS                         0             0             0             0             0             0            99
+0$ VALUE OF TOP CLAIM ACCTS                     0             0             0             0             0             0        76,559
+1 
+ (USVA/CARS)  DATE 11/28/2014     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  TOP  TOTALS  REPORT                                       COIN/CARS 146
+                                       LOAN GUARANTY       OCTOBER   1, 2014 -  NOVEMBER 30, 2014
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF TOP ACCTS REFERRED                    200           201             0             0             0             0
+0$ VALUE OF TOP ACCTS REFERRED             97,724       237,917             0             0             0             0
+0NO. OF TOP OFFSET ACCTS                       48            36             0             0             0             0
+0$ VALUE OF TOP OFFSET ACCTS                7,617         5,918             0             0             0             0
+0NO. OF TOP CLAIM ACCTS                         0             0             0             0             0             0
+0$ VALUE OF TOP CLAIM ACCTS                     0             0             0             0             0             0
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF TOP ACCTS REFERRED                      0             0             0             0             0             0           401
+0$ VALUE OF TOP ACCTS REFERRED                  0             0             0             0             0             0       335,641
+0NO. OF TOP OFFSET ACCTS                        0             0             0             0             0             0            84
+0$ VALUE OF TOP OFFSET ACCTS                    0             0             0             0             0             0        13,535
+0NO. OF TOP CLAIM ACCTS                         0             0             0             0             0             0             0
+0$ VALUE OF TOP CLAIM ACCTS                     0             0             0             0             0             0             0
+1 
+ (USVA/CARS)  DATE 11/28/2014     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  TOP  TOTALS  REPORT                                       COIN/CARS 146
+                                        DIRECT LOANS       OCTOBER   1, 2014 -  NOVEMBER 30, 2014
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF TOP ACCTS REFERRED                      0             0             0             0             0             0
+0$ VALUE OF TOP ACCTS REFERRED                  0             0             0             0             0             0
+0NO. OF TOP OFFSET ACCTS                        0             0             0             0             0             0
+0$ VALUE OF TOP OFFSET ACCTS                    0             0             0             0             0             0
+0NO. OF TOP CLAIM ACCTS                         0             0             0             0             0             0
+0$ VALUE OF TOP CLAIM ACCTS                     0             0             0             0             0             0
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF TOP ACCTS REFERRED                      0             0             0             0             0             0             0
+0$ VALUE OF TOP ACCTS REFERRED                  0             0             0             0             0             0             0
+0NO. OF TOP OFFSET ACCTS                        0             0             0             0             0             0             0
+0$ VALUE OF TOP OFFSET ACCTS                    0             0             0             0             0             0             0
+0NO. OF TOP CLAIM ACCTS                         0             0             0             0             0             0             0
+0$ VALUE OF TOP CLAIM ACCTS                     0             0             0             0             0             0             0
+1 
+ (USVA/CARS)  DATE 11/28/2014     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  TOP  TOTALS  REPORT                                       COIN/CARS 146
+                                         OTHER DEBTS       OCTOBER   1, 2014 -  NOVEMBER 30, 2014
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF TOP ACCTS REFERRED                      0             0             0             0             0             0
+0$ VALUE OF TOP ACCTS REFERRED                  0             0             0             0             0             0
+0NO. OF TOP OFFSET ACCTS                        0             0             0             0             0             0
+0$ VALUE OF TOP OFFSET ACCTS                    0             0             0             0             0             0
+0NO. OF TOP CLAIM ACCTS                         0             0             0             0             0             0
+0$ VALUE OF TOP CLAIM ACCTS                     0             0             0             0             0             0
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF TOP ACCTS REFERRED                      0             0             0             0             0             0             0
+0$ VALUE OF TOP ACCTS REFERRED                  0             0             0             0             0             0             0
+0NO. OF TOP OFFSET ACCTS                        0             0             0             0             0             0             0
+0$ VALUE OF TOP OFFSET ACCTS                    0             0             0             0             0             0             0
+0NO. OF TOP CLAIM ACCTS                         0             0             0             0             0             0             0
+0$ VALUE OF TOP CLAIM ACCTS                     0             0             0             0             0             0             0
+1 
+ (USVA/CARS)  DATE 11/28/2014     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  TOP  TOTALS  REPORT                                       COIN/CARS 146
+                                        ALL ACCOUNTS       OCTOBER   1, 2014 -  NOVEMBER 30, 2014
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF TOP ACCTS REFERRED                 49,939        37,544             0             0             0             0
+0$ VALUE OF TOP ACCTS REFERRED         44,917,325    38,838,942             0             0             0             0
+0NO. OF TOP OFFSET ACCTS                   12,383         9,761             0             0             0             0
+0$ VALUE OF TOP OFFSET ACCTS            3,226,932     1,670,314             0             0             0             0
+0NO. OF TOP CLAIM ACCTS                       113            65             0             0             0             0
+0$ VALUE OF TOP CLAIM ACCTS                86,455        67,969             0             0             0             0
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF TOP ACCTS REFERRED                      0             0             0             0             0             0        87,483
+0$ VALUE OF TOP ACCTS REFERRED                  0             0             0             0             0             0    83,756,267
+0NO. OF TOP OFFSET ACCTS                        0             0             0             0             0             0        22,144
+0$ VALUE OF TOP OFFSET ACCTS                    0             0             0             0             0             0     4,897,246
+0NO. OF TOP CLAIM ACCTS                         0             0             0             0             0             0           178
+0$ VALUE OF TOP CLAIM ACCTS                     0             0             0             0             0             0       154,424
+1DJDE JDE=C1PART,JDL=SYSOUT,COPIES=03,END;                                                                                           
+1
