@@ -1,0 +1,229 @@
+ (USVA/CARS)  DATE 08/31/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  CRS  TOTALS  REPORT                                       COIN/CARS 145
+                                         EDUCATION         OCTOBER   1, 2014 -    AUGUST 31, 2015
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF NEW CRS ACCTS REFERRED              4,591         4,202        10,684         4,596         4,803        10,605
+0$ VALUE OF CRS ACCTS REFERRED          3,321,038     3,006,149    15,849,196     2,784,700     3,413,666    14,232,965
+0NO. OF CRS ACCTS UPDATED                 114,415       116,124       116,637       122,628       107,078       102,969
+0$ VALUE OF CRS ACCTS UPDATED         159,742,661   159,879,563   158,864,358   169,745,127   151,346,788   145,129,011
+0NO. OF CRS ACCTS DELETED                      10            10            11            14            15            14
+      NO. OF WAIVERS                            0             1             2             4             2             1
+      NO. OF DEATHS                             0             0             3             0             0             0
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       0             0             0             0             0             0
+      NO. OF IND. TURNED OFF                   10             9             6            10            13            13
+0$ VALUE OF CRS ACCTS DELETED              13,605         4,913        13,481        19,810        28,977        24,679
+      $ VALUE OF WAIVERS                        0           565         1,470         4,798         1,321         2,791
+      $ VALUE OF DEATHS                         0             0         4,838             0             0             0
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES                   0             0             0             0             0             0
+      $ VALUE OF IND. TURNED OFF           13,605         4,348         7,173        15,012        27,656        21,888
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF NEW CRS ACCTS REFERRED              3,886         3,769        10,860         5,857        10,362             0        74,215
+0$ VALUE OF CRS ACCTS REFERRED          2,724,259     2,721,351    15,578,601     4,567,268    13,638,450             0    81,837,643
+0NO. OF CRS ACCTS UPDATED                 105,815       104,424       104,419       111,352       113,476             0     1,219,337
+0$ VALUE OF CRS ACCTS UPDATED         150,311,119   147,016,735   145,693,260   156,732,900   157,223,799             0 1,701,685,321
+0NO. OF CRS ACCTS DELETED                      26             8            10            16             6             0           140
+      NO. OF WAIVERS                            5             2             1             2             1             0            21
+      NO. OF DEATHS                             0             0             0             0             0             0             3
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       0             0             0             0             0             0             0
+      NO. OF IND. TURNED OFF                   21             6             9            14             5             0           116
+0$ VALUE OF CRS ACCTS DELETED              53,011        18,624        16,857        24,297         9,946             0       228,200
+      $ VALUE OF WAIVERS                   10,179         3,471         1,234         4,617           663             0        31,109
+      $ VALUE OF DEATHS                         0             0             0             0             0             0         4,838
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES                   0             0             0             0             0             0             0
+      $ VALUE OF IND. TURNED OFF           42,832        15,153        15,623        19,680         9,283             0       192,253
+1 
+ (USVA/CARS)  DATE 08/31/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  CRS  TOTALS  REPORT                                       COIN/CARS 145
+                                  COMPENSATION AND PENSION OCTOBER   1, 2014 -    AUGUST 31, 2015
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF NEW CRS ACCTS REFERRED                156           134         1,235           235           157           894
+0$ VALUE OF CRS ACCTS REFERRED          1,916,255     1,640,695    29,229,499     4,306,904     1,819,778    20,197,346
+0NO. OF CRS ACCTS UPDATED                  16,677        16,363        16,050        16,827        16,480        16,008
+0$ VALUE OF CRS ACCTS UPDATED         257,992,855   254,312,774   248,525,605   271,332,322   269,977,555   262,776,618
+0NO. OF CRS ACCTS DELETED                      83           119           109            92            99           178
+      NO. OF WAIVERS                           19            30            36            20            20            34
+      NO. OF DEATHS                            55            75            61            63            65           126
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       7            11            12             5             9            14
+      NO. OF IND. TURNED OFF                    2             3             0             4             5             4
+0$ VALUE OF CRS ACCTS DELETED           1,034,389     1,818,573     1,919,743     1,478,742     1,474,934     2,944,608
+      $ VALUE OF WAIVERS                  259,336       499,683       685,750       365,045       222,713       556,542
+      $ VALUE OF DEATHS                   658,607     1,076,536       896,210       879,260     1,089,416     1,977,183
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES             114,338       216,776       337,783       203,817       137,093       382,913
+      $ VALUE OF IND. TURNED OFF            2,108        25,578             0        30,620        25,712        27,970
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF NEW CRS ACCTS REFERRED                112           117           813           216           783             0         4,852
+0$ VALUE OF CRS ACCTS REFERRED          1,608,619     1,743,787    21,879,907     3,540,431    16,983,825             0   104,867,046
+0NO. OF CRS ACCTS UPDATED                  16,226        15,720        15,226        15,501        15,185             0       176,263
+0$ VALUE OF CRS ACCTS UPDATED         272,484,967   264,791,737   256,438,486   268,823,600   262,685,258             0 2,890,141,777
+0NO. OF CRS ACCTS DELETED                     154            92           194            86            91             0         1,297
+      NO. OF WAIVERS                           46            36            39            40            36             0           356
+      NO. OF DEATHS                            91            48           142            30            41             0           797
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                      10             4             9             8             7             0            96
+      NO. OF IND. TURNED OFF                    7             4             4             8             7             0            48
+0$ VALUE OF CRS ACCTS DELETED           2,566,999     1,624,257     3,554,360     2,068,623     1,833,169             0    22,318,397
+      $ VALUE OF WAIVERS                  962,272       811,995       895,287     1,119,083       879,738             0     7,257,444
+      $ VALUE OF DEATHS                 1,383,013       742,343     2,478,502       652,124       803,009             0    12,636,203
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES             173,443        39,855       123,742       141,995       107,820             0     1,979,575
+      $ VALUE OF IND. TURNED OFF           48,271        30,064        56,829       155,421        42,602             0       445,175
+1 
+ (USVA/CARS)  DATE 08/31/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  CRS  TOTALS  REPORT                                       COIN/CARS 145
+                                       LOAN GUARANTY       OCTOBER   1, 2014 -    AUGUST 31, 2015
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF NEW CRS ACCTS REFERRED                  0             1             0             0             0             0
+0$ VALUE OF CRS ACCTS REFERRED                  0        21,798             0             0             0             0
+0NO. OF CRS ACCTS UPDATED                       8             8             9             9             9             9
+0$ VALUE OF CRS ACCTS UPDATED              43,014        39,636        60,449        60,078        59,688        59,297
+0NO. OF CRS ACCTS DELETED                       0             0             0             0             0             0
+      NO. OF WAIVERS                            0             0             0             0             0             0
+      NO. OF DEATHS                             0             0             0             0             0             0
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       0             0             0             0             0             0
+      NO. OF IND. TURNED OFF                    0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS DELETED                   0             0             0             0             0             0
+      $ VALUE OF WAIVERS                        0             0             0             0             0             0
+      $ VALUE OF DEATHS                         0             0             0             0             0             0
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES                   0             0             0             0             0             0
+      $ VALUE OF IND. TURNED OFF                0             0             0             0             0             0
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF NEW CRS ACCTS REFERRED                  0             0             1             0             0             0             2
+0$ VALUE OF CRS ACCTS REFERRED                  0             0        12,697             0             0             0        34,495
+0NO. OF CRS ACCTS UPDATED                       9             9             9             8             8             0            95
+0$ VALUE OF CRS ACCTS UPDATED              58,775        57,465        56,445        43,995        43,870             0       582,712
+0NO. OF CRS ACCTS DELETED                       0             0             0             0             0             0             0
+      NO. OF WAIVERS                            0             0             0             0             0             0             0
+      NO. OF DEATHS                             0             0             0             0             0             0             0
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       0             0             0             0             0             0             0
+      NO. OF IND. TURNED OFF                    0             0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS DELETED                   0             0             0             0             0             0             0
+      $ VALUE OF WAIVERS                        0             0             0             0             0             0             0
+      $ VALUE OF DEATHS                         0             0             0             0             0             0             0
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES                   0             0             0             0             0             0             0
+      $ VALUE OF IND. TURNED OFF                0             0             0             0             0             0             0
+1 
+ (USVA/CARS)  DATE 08/31/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  CRS  TOTALS  REPORT                                       COIN/CARS 145
+                                        DIRECT LOANS       OCTOBER   1, 2014 -    AUGUST 31, 2015
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF NEW CRS ACCTS REFERRED                  0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS REFERRED                  0             0             0             0             0             0
+0NO. OF CRS ACCTS UPDATED                       0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS UPDATED                   0             0             0             0             0             0
+0NO. OF CRS ACCTS DELETED                       0             0             0             0             0             0
+      NO. OF WAIVERS                            0             0             0             0             0             0
+      NO. OF DEATHS                             0             0             0             0             0             0
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       0             0             0             0             0             0
+      NO. OF IND. TURNED OFF                    0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS DELETED                   0             0             0             0             0             0
+      $ VALUE OF WAIVERS                        0             0             0             0             0             0
+      $ VALUE OF DEATHS                         0             0             0             0             0             0
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES                   0             0             0             0             0             0
+      $ VALUE OF IND. TURNED OFF                0             0             0             0             0             0
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF NEW CRS ACCTS REFERRED                  0             0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS REFERRED                  0             0             0             0             0             0             0
+0NO. OF CRS ACCTS UPDATED                       0             0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS UPDATED                   0             0             0             0             0             0             0
+0NO. OF CRS ACCTS DELETED                       0             0             0             0             0             0             0
+      NO. OF WAIVERS                            0             0             0             0             0             0             0
+      NO. OF DEATHS                             0             0             0             0             0             0             0
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       0             0             0             0             0             0             0
+      NO. OF IND. TURNED OFF                    0             0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS DELETED                   0             0             0             0             0             0             0
+      $ VALUE OF WAIVERS                        0             0             0             0             0             0             0
+      $ VALUE OF DEATHS                         0             0             0             0             0             0             0
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES                   0             0             0             0             0             0             0
+      $ VALUE OF IND. TURNED OFF                0             0             0             0             0             0             0
+1 
+ (USVA/CARS)  DATE 08/31/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  CRS  TOTALS  REPORT                                       COIN/CARS 145
+                                         OTHER DEBTS       OCTOBER   1, 2014 -    AUGUST 31, 2015
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF NEW CRS ACCTS REFERRED                  0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS REFERRED                  0             0             0             0             0             0
+0NO. OF CRS ACCTS UPDATED                       0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS UPDATED                   0             0             0             0             0             0
+0NO. OF CRS ACCTS DELETED                       0             0             0             0             0             0
+      NO. OF WAIVERS                            0             0             0             0             0             0
+      NO. OF DEATHS                             0             0             0             0             0             0
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       0             0             0             0             0             0
+      NO. OF IND. TURNED OFF                    0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS DELETED                   0             0             0             0             0             0
+      $ VALUE OF WAIVERS                        0             0             0             0             0             0
+      $ VALUE OF DEATHS                         0             0             0             0             0             0
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES                   0             0             0             0             0             0
+      $ VALUE OF IND. TURNED OFF                0             0             0             0             0             0
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF NEW CRS ACCTS REFERRED                  0             0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS REFERRED                  0             0             0             0             0             0             0
+0NO. OF CRS ACCTS UPDATED                       0             0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS UPDATED                   0             0             0             0             0             0             0
+0NO. OF CRS ACCTS DELETED                       0             0             0             0             0             0             0
+      NO. OF WAIVERS                            0             0             0             0             0             0             0
+      NO. OF DEATHS                             0             0             0             0             0             0             0
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       0             0             0             0             0             0             0
+      NO. OF IND. TURNED OFF                    0             0             0             0             0             0             0
+0$ VALUE OF CRS ACCTS DELETED                   0             0             0             0             0             0             0
+      $ VALUE OF WAIVERS                        0             0             0             0             0             0             0
+      $ VALUE OF DEATHS                         0             0             0             0             0             0             0
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES                   0             0             0             0             0             0             0
+      $ VALUE OF IND. TURNED OFF                0             0             0             0             0             0             0
+1 
+ (USVA/CARS)  DATE 08/31/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   MONTHLY  CRS  TOTALS  REPORT                                       COIN/CARS 145
+                                        ALL ACCOUNTS       OCTOBER   1, 2014 -    AUGUST 31, 2015
+0                                     OCTOBER       NOVEMBER      DECEMBER      JANUARY       FEBRUARY       MARCH
+0NO. OF NEW CRS ACCTS REFERRED              4,747         4,337        11,919         4,831         4,960        11,499
+0$ VALUE OF CRS ACCTS REFERRED          5,237,293     4,668,642    45,078,695     7,091,604     5,233,444    34,430,311
+0NO. OF CRS ACCTS UPDATED                 131,100       132,495       132,696       139,464       123,567       118,986
+0$ VALUE OF CRS ACCTS UPDATED         417,778,530   414,231,973   407,450,412   441,137,527   421,384,031   407,964,926
+0NO. OF CRS ACCTS DELETED                      93           129           120           106           114           192
+      NO. OF WAIVERS                           19            31            38            24            22            35
+      NO. OF DEATHS                            55            75            64            63            65           126
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                       7            11            12             5             9            14
+      NO. OF IND. TURNED OFF                   12            12             6            14            18            17
+0$ VALUE OF CRS ACCTS DELETED           1,047,994     1,823,486     1,933,224     1,498,552     1,503,911     2,969,287
+      $ VALUE OF WAIVERS                  259,336       500,248       687,220       369,843       224,034       559,333
+      $ VALUE OF DEATHS                   658,607     1,076,536       901,048       879,260     1,089,416     1,977,183
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES             114,338       216,776       337,783       203,817       137,093       382,913
+      $ VALUE OF IND. TURNED OFF           15,713        29,926         7,173        45,632        53,368        49,858
+-                                      APRIL          MAY           JUNE          JULY         AUGUST      SEPTEMBER    YEAR TO DATE
+0NO. OF NEW CRS ACCTS REFERRED              3,998         3,886        11,674         6,073        11,145             0        79,069
+0$ VALUE OF CRS ACCTS REFERRED          4,332,878     4,465,138    37,471,205     8,107,699    30,622,275             0   186,739,184
+0NO. OF CRS ACCTS UPDATED                 122,050       120,153       119,654       126,861       128,669             0     1,395,695
+0$ VALUE OF CRS ACCTS UPDATED         422,854,861   411,865,937   402,188,191   425,600,495   419,952,927             0 4,592,409,810
+0NO. OF CRS ACCTS DELETED                     180           100           204           102            97             0         1,437
+      NO. OF WAIVERS                           51            38            40            42            37             0           377
+      NO. OF DEATHS                            91            48           142            30            41             0           800
+      NO. OF PAID IN FULLS                      0             0             0             0             0             0             0
+      NO. OF BANKRUPTCIES                      10             4             9             8             7             0            96
+      NO. OF IND. TURNED OFF                   28            10            13            22            12             0           164
+0$ VALUE OF CRS ACCTS DELETED           2,620,010     1,642,881     3,571,217     2,092,920     1,843,115             0    22,546,597
+      $ VALUE OF WAIVERS                  972,451       815,466       896,521     1,123,700       880,401             0     7,288,553
+      $ VALUE OF DEATHS                 1,383,013       742,343     2,478,502       652,124       803,009             0    12,641,041
+      $ VALUE OF PAID IN FULLS                  0             0             0             0             0             0             0
+      $ VALUE OF BANKRUPTCIES             173,443        39,855       123,742       141,995       107,820             0     1,979,575
+      $ VALUE OF IND. TURNED OFF           91,103        45,217        72,452       175,101        51,885             0       637,428
+1DJDE JDE=C1PART,JDL=SYSOUT,COPIES=02,END;                                                                                           
+1
